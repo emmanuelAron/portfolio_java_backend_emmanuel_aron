@@ -51,14 +51,14 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 
 ---
 
-### 🔹 Calculatrice J2EE – Partie 1
+### 🔹 Calculatrice J2EE – Partie 1 (présentation sous forme de vidéo live-coding).
 - [📂 Google Drive](https://drive.google.com/file/d/1FnPrJJZ5UYgFenhu0iffi89bdGlWQ_dK/view)  
 - Application de calculatrice simple en **J2EE** avec servlets et JSP.  
 - Gestion des opérations de base et premières notions de MVC.  
 
 ---
 
-### 🔹 Calculatrice J2EE – Partie 2
+### 🔹 Calculatrice J2EE – Partie 2 (présentation sous forme de vidéo live-coding).
 - [📂 Google Drive](https://drive.google.com/file/d/1LXxM-z1ytM-2iDfOX5p85LGDydCo8ui9/view)  
 - Évolution du projet précédent avec une architecture plus avancée.  
 - Ajout de fonctionnalités et amélioration de la structure applicative.  
