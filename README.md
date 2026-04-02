@@ -76,9 +76,17 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 
 ### Logiciel d'apprentissage des échecs
 - [📂GitHub : logiciel apprentissage echecs](https://github.com/emmanuelAron/JeuEchecs)
-- Ce projet committé en 2015 et réalisé avant au Greta de Champigny lors de ma formation d'un an en alternance est réalisé en java Swing.
+- Ce projet committé en 2015 et réalisé avant au Greta de Champigny lors de ma formation d'un an en java et en alternance , est réalisé en java Swing.
 - Le but de ce projet et d'apprendre les échecs aux jeunes enfants ou adultes via cette interface conviviale (projet visible également via mon site web:https://emmanuelaron.fr/projetsSite/ dans le menu "Pti".
 - Je suis conscient des nombreuses redondances de code mais je l'ai laissé tel quel car c'est un de mes premiers vrai projets java réalisés tel quel (et sans chatGpt!).
+
+---
+
+### Katas exercices/projet sur la pratique du TDD (test driven development, issu du monde Agile/Clean Code)
+
+- https://github.com/emmanuelAron/katapotter (committé en 2018)
+- https://github.com/emmanuelAron/haskell_training_tdd (committé en 2017)
+- https://github.com/emmanuelAron/gameOfLife (committé en 2017)
 
 ## 🎯 Objectif du portfolio
 
