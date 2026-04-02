@@ -70,7 +70,7 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 - Suivi du cours Udemy *"Bien débuter avec Spring et Spring Boot pour Java"* de Laurent Ehret.  
 - Concepts abordés : **Spring Core, Spring Boot, Spring MVC, Spring Data, Spring Cloud, microservices**.  
 - Mise en place de projets Spring “from scratch” pour bien comprendre l’écosystème.
-- PS: les différents TP se trouvent dans dans <b>branches github distinctes.</b>
+- PS: les différents TP se trouvent dans des <b>branches github distinctes.</b>
 
 ---
 
