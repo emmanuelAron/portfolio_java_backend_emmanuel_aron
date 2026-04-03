@@ -65,13 +65,16 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 
 ---
 
-### 🔹 Cours Spring Boot
+### 🔹 Cours Spring (et ses dérivés)/ Spring Boot (...)
 - [📂 Repository GitHub](https://github.com/emmanuelAron/spring_cours)  
 - Suivi du cours Udemy *"Bien débuter avec Spring et Spring Boot pour Java"* de Laurent Ehret.  
 - Concepts abordés : **Spring Core, Spring Boot, Spring MVC, Spring Data, Spring Cloud, microservices**.  
 - Mise en place de projets Spring “from scratch” pour bien comprendre l’écosystème.
 - PS: les différents TP se trouvent dans des <b>branches github distinctes.</b>
-
+<br></br>
+Autres formations Spring:
+- the-complete-spring-boot-development-bootcamp (Java Web Development: MVC, Beans, React (Full Stack), REST, Testing, OpenAPI, Spring Data JPA, SQL, Spring Security, JWT) : Auteur: Rayan Slim (AI Practitioner & Tech Professional)
+- In 28minutes : Ranga Karanam (autre formation sur Spring et ses dérivés).
 ---
 
 ### Logiciel d'apprentissage des échecs
