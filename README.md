@@ -77,6 +77,7 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 - Concepts abordés : **Spring Core, Spring Boot, Spring MVC, Spring Data, Spring Cloud, microservices**.  
 - Mise en place de projets Spring “from scratch” pour bien comprendre l’écosystème.
 - PS: les différents TP se trouvent dans des <b>branches github distinctes.</b>
+![IoC](images/inversionOfControl.png)
 <br></br>
 Autres formations Spring:
 - the-complete-spring-boot-development-bootcamp (Java Web Development: MVC, Beans, React (Full Stack), REST, Testing, OpenAPI, Spring Data JPA, SQL, Spring Security, JWT) : Auteur: Rayan Slim (AI Practitioner & Tech Professional)
