@@ -9,9 +9,9 @@ Ce dépôt regroupe mes projets Java/J2EE et Spring, montrant ma capacité à d�
 
 ### Application Spring Boot , React, Kafka (en java) ,java Spark,java Websocket
 - [Chess Replay](https://chess-replay-eta.vercel.app/)
-<br>
-![Chess Replay](images/kings_indian_screenshot.png)
-<br>
+
+![Screenshot](images/kings_indian_screenshot.png)
+
 
 - ### 📌 Description
 Chess Replay est une application temps réel permettant de rejouer et visualiser des parties d’échecs via une architecture orientée événements.
