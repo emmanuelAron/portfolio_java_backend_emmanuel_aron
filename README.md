@@ -101,6 +101,8 @@ Autres formations Spring:
 - https://github.com/emmanuelAron/haskell_training_tdd (committé en 2017)
 - https://github.com/emmanuelAron/gameOfLife (committé en 2017)
 
+![Haskell TDD](images/haskell_training_tdd.png)
+
 ## 🎯 Objectif du portfolio
 
 Montrer ma capacité à :  
