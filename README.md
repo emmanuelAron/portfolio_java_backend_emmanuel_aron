@@ -1,7 +1,7 @@
 # 💻 Portfolio Java Backend – Emmanuel Aron
 
-Bienvenue sur mon portfolio **Java Backend**.  
-Ce dépôt regroupe mes projets Java/J2EE et Spring, montrant ma capacité à développer des applications backend robustes en Java, en utilisant **Jakarta EE, Servlets/JSP, Spring et déploiement sur WildFly**.
+Développeur Java backend spécialisé en Spring Boot et son écosystème, API REST et architectures event-driven (Kafka, WebSocket), avec une forte expertise en logique métier complexe.<br>
+(Possède un background sur java swing également et me suis également intéressé à d'autres technos comme java spark ou même java xpath ...).
 
 ---
 
