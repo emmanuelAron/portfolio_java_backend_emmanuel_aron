@@ -87,6 +87,8 @@ Autres formations Spring:
 - [📂GitHub : logiciel apprentissage echecs](https://github.com/emmanuelAron/JeuEchecs)
 - Ce projet committé en 2015 et réalisé avant au Greta de Champigny lors de ma formation d'un an en java et en alternance , est réalisé en java Swing.
 - Le but de ce projet et d'apprendre les échecs aux jeunes enfants ou adultes via cette interface conviviale (projet visible également via mon site web:https://emmanuelaron.fr/projetsSite/ dans le menu "Pti".
+![Cases Vues](images/CasesVues.png)
+
 - Je suis conscient des nombreuses redondances de code mais je l'ai laissé tel quel car c'est un de mes premiers vrai projets java réalisés tel quel (et sans chatGpt!).
 
 ---
