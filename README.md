@@ -50,6 +50,8 @@ Le système repose sur un backend Java Spring Boot capable de traiter des flux d
 
 ### 🔹 Site Web – Projets Java
 - [🌐 Site déployé](https://emmanuelaron.fr/projetsSite/)  
+
+![Projet Site](images/projetsSite.png)
 - Projet web présentant mes anciens projets java.
 - Contient plusieurs mini-applications Java backend (J2EE,Struts2,Swing, Java SE,sql,diagramme Merise...) et qui sont une partie du resultat de mes anciennes formations , et ancien background en java (il y a plus de 10 ans).
 
